@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*credentials.json
+*token.json
+
+*gsheet.properties
+*.DS_Store
+const.py
+.vscode/settings.json
+configuration/sunny/gsheet.py
+configuration/sample/gsheet.py.sample
